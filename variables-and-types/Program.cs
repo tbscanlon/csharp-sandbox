@@ -29,6 +29,7 @@ namespace variables_and_types
             var sum = x + y; // Also an integer
 
             CarType myCarType = CarType.Toyota; // using an enum as a variable
+            Console.WriteLine(myCarType);
         }
     }
 }
