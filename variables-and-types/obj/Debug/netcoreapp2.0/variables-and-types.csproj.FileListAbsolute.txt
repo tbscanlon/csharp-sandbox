@@ -1,0 +1,10 @@
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/obj/Debug/netcoreapp2.0/variables-and-types.csproj.CoreCompileInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/obj/Debug/netcoreapp2.0/variables-and-types.AssemblyInfoInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/obj/Debug/netcoreapp2.0/variables-and-types.AssemblyInfo.cs
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/bin/Debug/netcoreapp2.0/variables-and-types.deps.json
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/bin/Debug/netcoreapp2.0/variables-and-types.runtimeconfig.json
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/bin/Debug/netcoreapp2.0/variables-and-types.runtimeconfig.dev.json
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/bin/Debug/netcoreapp2.0/variables-and-types.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/bin/Debug/netcoreapp2.0/variables-and-types.pdb
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/obj/Debug/netcoreapp2.0/variables-and-types.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/variables-and-types/obj/Debug/netcoreapp2.0/variables-and-types.pdb
