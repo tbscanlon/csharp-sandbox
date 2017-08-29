@@ -1,0 +1,10 @@
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/bin/Debug/netcoreapp2.0/hello-world.deps.json
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/bin/Debug/netcoreapp2.0/hello-world.runtimeconfig.json
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/bin/Debug/netcoreapp2.0/hello-world.runtimeconfig.dev.json
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/bin/Debug/netcoreapp2.0/hello-world.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/bin/Debug/netcoreapp2.0/hello-world.pdb
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/obj/Debug/netcoreapp2.0/hello-world.csproj.CoreCompileInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/obj/Debug/netcoreapp2.0/hello-world.AssemblyInfoInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/obj/Debug/netcoreapp2.0/hello-world.AssemblyInfo.cs
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/obj/Debug/netcoreapp2.0/hello-world.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/hello-world/obj/Debug/netcoreapp2.0/hello-world.pdb
