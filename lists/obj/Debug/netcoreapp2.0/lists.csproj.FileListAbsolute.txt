@@ -1,0 +1,10 @@
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/obj/Debug/netcoreapp2.0/lists.csproj.CoreCompileInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/obj/Debug/netcoreapp2.0/lists.AssemblyInfoInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/obj/Debug/netcoreapp2.0/lists.AssemblyInfo.cs
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/bin/Debug/netcoreapp2.0/lists.deps.json
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/bin/Debug/netcoreapp2.0/lists.runtimeconfig.json
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/bin/Debug/netcoreapp2.0/lists.runtimeconfig.dev.json
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/bin/Debug/netcoreapp2.0/lists.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/bin/Debug/netcoreapp2.0/lists.pdb
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/obj/Debug/netcoreapp2.0/lists.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/lists/obj/Debug/netcoreapp2.0/lists.pdb
