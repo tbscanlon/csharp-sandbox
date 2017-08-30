@@ -1,0 +1,10 @@
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/obj/Debug/netcoreapp2.0/for-loops.csproj.CoreCompileInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/obj/Debug/netcoreapp2.0/for-loops.AssemblyInfoInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/obj/Debug/netcoreapp2.0/for-loops.AssemblyInfo.cs
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/bin/Debug/netcoreapp2.0/for-loops.deps.json
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/bin/Debug/netcoreapp2.0/for-loops.runtimeconfig.json
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/bin/Debug/netcoreapp2.0/for-loops.runtimeconfig.dev.json
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/bin/Debug/netcoreapp2.0/for-loops.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/bin/Debug/netcoreapp2.0/for-loops.pdb
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/obj/Debug/netcoreapp2.0/for-loops.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/for-loops/obj/Debug/netcoreapp2.0/for-loops.pdb
