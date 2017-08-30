@@ -1,0 +1,10 @@
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/obj/Debug/netcoreapp2.0/strings.csproj.CoreCompileInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/obj/Debug/netcoreapp2.0/strings.AssemblyInfoInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/obj/Debug/netcoreapp2.0/strings.AssemblyInfo.cs
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/bin/Debug/netcoreapp2.0/strings.deps.json
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/bin/Debug/netcoreapp2.0/strings.runtimeconfig.json
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/bin/Debug/netcoreapp2.0/strings.runtimeconfig.dev.json
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/bin/Debug/netcoreapp2.0/strings.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/bin/Debug/netcoreapp2.0/strings.pdb
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/obj/Debug/netcoreapp2.0/strings.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/strings/obj/Debug/netcoreapp2.0/strings.pdb
