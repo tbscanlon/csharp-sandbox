@@ -7,3 +7,4 @@ A sandbox repo for learning and playing around with c#. Pretty much anything I'v
 - Even though .NET Core was open-sourced by MS a while back and they now officially support Linux, it still feels like a second class citizen (especially compared to Windows). This is to be expected in my opinion, and from my extremely limited experience with VS Code it seems to do a pretty good job as a c# IDE on Linux.
 - Having to wait for compilation before running code is annoying.
 - I was concerned that fixed size arrays would be burdensome after using Ruby & JS so long. Lists seem to side-step this problem.
+- A lot of files get attached to even the simplest C# program.

@@ -1,0 +1,10 @@
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.csproj.CoreCompileInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.AssemblyInfoInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.AssemblyInfo.cs
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.deps.json
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.runtimeconfig.json
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.runtimeconfig.dev.json
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.pdb
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.pdb
