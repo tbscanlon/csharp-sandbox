@@ -1,0 +1,10 @@
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/obj/Debug/netcoreapp2.0/while-loops.csproj.CoreCompileInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/obj/Debug/netcoreapp2.0/while-loops.AssemblyInfoInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/obj/Debug/netcoreapp2.0/while-loops.AssemblyInfo.cs
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/bin/Debug/netcoreapp2.0/while-loops.deps.json
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/bin/Debug/netcoreapp2.0/while-loops.runtimeconfig.json
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/bin/Debug/netcoreapp2.0/while-loops.runtimeconfig.dev.json
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/bin/Debug/netcoreapp2.0/while-loops.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/bin/Debug/netcoreapp2.0/while-loops.pdb
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/obj/Debug/netcoreapp2.0/while-loops.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/while-loops/obj/Debug/netcoreapp2.0/while-loops.pdb
