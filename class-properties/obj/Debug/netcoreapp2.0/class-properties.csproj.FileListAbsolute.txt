@@ -1,0 +1,10 @@
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/obj/Debug/netcoreapp2.0/class-properties.csproj.CoreCompileInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/obj/Debug/netcoreapp2.0/class-properties.AssemblyInfoInputs.cache
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/obj/Debug/netcoreapp2.0/class-properties.AssemblyInfo.cs
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/bin/Debug/netcoreapp2.0/class-properties.deps.json
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/bin/Debug/netcoreapp2.0/class-properties.runtimeconfig.json
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/bin/Debug/netcoreapp2.0/class-properties.runtimeconfig.dev.json
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/bin/Debug/netcoreapp2.0/class-properties.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/bin/Debug/netcoreapp2.0/class-properties.pdb
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/obj/Debug/netcoreapp2.0/class-properties.dll
+/home/tom/Dropbox/Projects/csharp-sandbox/class-properties/obj/Debug/netcoreapp2.0/class-properties.pdb
